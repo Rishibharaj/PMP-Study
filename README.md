@@ -1,69 +1,70 @@
-Agile & Project Management Study Kit
-A single‑folder study repository containing Scrum, Agile, PMBOK 7, Rita mappings, ITTOs, definitions, and key PM concepts.
-All files are stored in the main branch root for ease of access.
+# 📚 Agile & Project Management Study Kit
+A single-folder PMP / Agile / PMBOK 7 study repository containing Scrum, Agile Practice Guide notes, PM terms, ITTOs, definitions, and Rita-style mappings.  
+All files are stored directly in the **main branch root** due to office environment restrictions.
 
-📄 Files Included (Click to Open)
-📘 Core Agile & PM Documents
+---
 
-👉 2020-Scrum-Guide-US.pdf
-👉 agilepracticeguide.pdf
-👉 Bai%20tap%20ve%20mapping%20processes.pdf
-👉 Project%20Management%20Fundamental%20Terms.pdf
+## 📄 Files Included (Click to Open)
 
-📊 Master Workbook
+### 📘 Core Agile & PM Documents  
+- 👉 [2020-Scrum-Guide-US.pdf](https://github.com/Rishibharaj/PMP-Study/blob/main/2020-Scrum-Guide-US.pdf)  
+- 👉 [agilepracticeguide.pdf](https://github.com/Rishibharaj/PMP-Study/blob/main/agilepracticeguide.pdf)  
+- 👉 https://github.com/Rishibharaj/PMP-Study/blob/main/Bai%20tap%20ve%20mapping%20processes.pdf  
+- 👉 [Project Management Fundamental Terms.pdf](https://github.com/Rishibharaj/PMP-Study/blob/main/Project%20Management%20Fundamental%20Terms.pdf)
 
-👉 Fundamental%20Terms1%20-%20Copy.xlsx
-Contains:
+### 📊 Master Workbook  
+- 👉 https://github.com/Rishibharaj/PMP-Study/blob/main/Fundamental%20Terms1%20-%20Copy.xlsx
 
-PMBOK 7 headers
-Rita process‑group style headers
-Full ITTO list
-Definitions & key terms
-Quick lookup reference tables
-Performance domain mappings
+This Excel workbook includes:
+- PMBOK 7 performance domains  
+- Rita-style headers  
+- ALL ITTOs with notes  
+- Definitions & exam terms  
+- Cross-reference tables  
 
+---
 
+## 🧭 How to Use This Study Kit
 
+### 1️⃣ Start with the Scrum Guide  
+Learn the foundations of empiricism, roles, events, and artifacts.
 
-🧭 How to Use This Study Kit
-Since everything is in the root directory, simply click the hyperlinks above to open each file.
-1. Start with the Scrum Guide
-Kick off with the official 2020 Scrum Guide to understand:
+### 2️⃣ Continue with the Agile Practice Guide  
+Understand Agile & Hybrid life cycles, tailoring, Agile metrics, governance.
 
-Empiricism
-Roles (Scrum Master, PO, Developers)
-Events
-Artifacts
+### 3️⃣ Use the Process Mapping Exercises  
+Practice turning workflows into PMBOK-aligned flows and ITTO chains.
 
-2. Move to the Agile Practice Guide
-Use it for:
+### 4️⃣ Use the Glossary PDF  
+Quick revision for PM terms, concepts, and definitions.
 
-Agile vs. Predictive vs. Hybrid
-Tailoring
-Governance
-Agile metrics
-Life cycle & team structure guidance
+### 5️⃣ Use the Excel Master File  
+Your strongest PMP tool — includes:
+- ITTO Memorization Table  
+- PMBOK 7 ↔ Rita Mapping  
+- Definitions & high‑value terms  
+- Tailoring notes  
+- Quick exam revision filtering  
 
-3. Apply learning using the Process Mapping PDF
-“Bai tap ve mapping processes.pdf” helps practice:
+---
 
-SIPOC
-Process flows
-Handoffs
-Mapping exercises tied to PMBOK concepts
+## 🗺️ 14-Day Study Plan  
+**Day 1–2:** Scrum Guide  
+**Day 3–4:** Agile Practice Guide  
+**Day 5–7:** Excel ITTO Master  
+**Day 8–9:** Process Mapping Exercises  
+**Day 10–11:** Glossary  
+**Day 12–13:** Scenario Drills  
+**Day 14:** Final Review  
 
-4. Use the Glossary PDF for revision
-“Project Management Fundamental Terms.pdf” provides:
+---
 
-Quick reference
-Pre‑exam refreshers
-Clear definitions for ambiguous terms
+## ⚠️ Licensing Notes  
+Some files (e.g., Agile Practice Guide) may be copyrighted by PMI.  
 
-5. Use the Master Excel File for Real Exam Preparation
-Your Excel workbook is your most valuable tool containing:
+---
 
-PMBOK 7 + Rita crosswalk tables
-All ITTOs with structured breakdowns
-Definitions + high‑value terms in one reference
-Tailoring & performance domain summaries
-A cheatsheet‑style data model for exam systems thinking
+## 👤 Maintainer  
+**Rishi Bharaj**  
+PMP | Oracle GenAI Professional | ISO 9001:2015 Lead Auditor  
+Business Operations Manager  

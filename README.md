@@ -1,6 +1,6 @@
 # 📚 Agile & Project Management Study Kit
 A single-folder PMP / Agile / PMBOK 7 study repository containing Scrum, Agile Practice Guide notes, PM terms, ITTOs, definitions, and Rita-style mappings.  
-All files are stored directly in the **main branch root** due to office environment restrictions.
+All files are stored directly in the **main branch root** for ease of access.
 
 ---
 

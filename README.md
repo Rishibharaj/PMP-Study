@@ -13,7 +13,7 @@ All files are stored directly in the **main branch root** for ease of access.
 - 👉 [Project Management Fundamental Terms.pdf](https://github.com/Rishibharaj/PMP-Study/blob/main/Project%20Management%20Fundamental%20Terms.pdf)
 
 ### 📊 Master Workbook  
-- 👉 https://github.com/Rishibharaj/PMP-Study/blob/main/Fundamental%20Terms1%20-%20Copy.xlsx
+- 👉 https://github.com/Rishibharaj/PMP-Study/blob/main/Fundamental-Terms1-Copy.xlsx
 - Ive created this file in my PMP learning journey to keep track of important items
 This Excel workbook includes:
 - PMBOK 7 performance domains  

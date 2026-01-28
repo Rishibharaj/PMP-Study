@@ -63,8 +63,3 @@ Your strongest PMP tool — includes:
 Some files (e.g., Agile Practice Guide) may be copyrighted by PMI.  
 
 ---
-
-## 👤 Maintainer  
-**Rishi Bharaj**  
-PMP | Oracle GenAI Professional | ISO 9001:2015 Lead Auditor  
-Business Operations Manager  

@@ -3,6 +3,17 @@ A single-folder PMP / Agile / PMBOK 7 study repository containing Scrum, Agile P
 All files are stored directly in the **main branch root** for ease of access.
 
 ---
+## At a Glance
+
+- PMP, Agile, Scrum, and PMBOK 7 study resources
+- Master workbook containing ITTOs, mappings, and definitions
+- Agile Practice Guide reference materials
+- Scrum Guide reference materials
+- Process mapping exercises
+- Exam preparation focused
+- Created and maintained as part of a PMP certification journey
+
+---
 
 ## 📄 Files Included (Click to Open)
 
